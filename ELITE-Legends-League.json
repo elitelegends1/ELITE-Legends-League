@@ -1,6 +1,6 @@
 {
 	"Name": "ELITE Legends League S1",
-	"Version": 1728770273,
+	"Version": 1729462264,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -3047,6 +3047,7 @@
 			"SurvivorIndvPerkBans": [
 				"21",
 				"60",
+				"34",
 				"36",
 				"38",
 				"39",
