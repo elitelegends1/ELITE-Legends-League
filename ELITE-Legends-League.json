@@ -1,6 +1,6 @@
 {
 	"Name": "ELITE Legends League S2",
-	"Version": 1740572795,
+	"Version": 1741170552,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -11,7 +11,6 @@
 				"52",
 				"7",
 				"258",
-				"13",
 				"16",
 				"17",
 				"18",
@@ -460,6 +459,7 @@
 				"76",
 				"92",
 				"102",
+				"107",
 				"121",
 				"127"
 			],
@@ -558,7 +558,9 @@
 			],
 			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
-			"SurvivorWhitelistedPerks": [],
+			"SurvivorWhitelistedPerks": [
+				"13"
+			],
 			"SurvivorWhitelistedComboPerks": [],
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
@@ -1863,7 +1865,6 @@
 			"SurvivorIndvPerkBans": [
 				"11",
 				"20",
-				"60",
 				"34",
 				"36",
 				"38",
